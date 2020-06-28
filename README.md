@@ -11,14 +11,15 @@
 
 🡪 You have to ensure that the latest version of Python is installed on your computer: [Python](https://www.python.org/downloads/)
 </p>
-🡪 In order to instal tweepy just type "pip install tweepy" on cmd
+🡪 In order to install tweepy just type "pip install tweepy" on cmd
 </p>
 🡪 After all this, on cmd find where the bot.py file is located and then type "python bot.py"
 
 ## Features
 
-* Tweepy
-* Twitter API
+🡪 Tweepy
+</p>
+🡪 Twitter API
 
 
 
