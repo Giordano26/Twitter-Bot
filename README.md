@@ -1,9 +1,9 @@
 <h2 align="center">
-    Twitter RT BOT
+    Twitter RT/Fav BOT
 </h2>
 
 <p align="center">
-  <i> A bot that rt's a certain pre-defined word every 8 minutes </i>
+  <i> A bot that Rts/Favs a certain pre-defined word every 4 minutes </i>
 </p>
 
 ## Running the bot
