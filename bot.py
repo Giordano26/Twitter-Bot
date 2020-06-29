@@ -12,16 +12,19 @@ user = api.me()
 
 search = '' # Word for the twitter action
 
-nTweets = 100
+nTweets = 500
 
-for tweet in tweepy.Cursor(api.search,search).items(nTweets):
-    try:
-        tweet.retweet()
-        timer = datetime.datetime.now()
-        print("Retweeted")
-        print(timer.hour,":",timer.minute,":",timer.second)
-        time.sleep(480)
-    except tweepy.TweepError as error:
-        print(error.reason)
-    except StopIteration:
-        break
+while True:
+    for tweet in tweepy.Cursor(api.search,search).items(nTweets):
+        try:
+            tweet.retweet()
+            tweet.favorite()
+            timer = datetime.datetime.now()
+            print("Liked/Retweeted")
+            print(timer.hour,":",timer.minute,":",timer.second)
+            time.sleep(240)
+        except tweepy.TweepError as error:
+            print(error.reason)
+            time.sleep(1)
+        except StopIteration:
+            break
