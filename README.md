@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <i> A bot that Rts/Favs a certain pre-defined word every 4 minutes </i>
+  <i> A bot that Rts/Favs a certain pre-defined word every 1 minute </i>
 </p>
 
 ## Running the bot
@@ -22,7 +22,7 @@
 🡪 Twitter API
 
 ## Twitter User
-[Profile](https://twitter.com/LoverTuraco)
+[Profile](https://twitter.com/KpopBot17)
 ## Author
 
 * *Stéfano Giordano* - [Stéfano](https://github.com/Giordano26)
