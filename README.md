@@ -7,7 +7,7 @@
 </p>
 
 ## Running the bot
-<strong> WARNING: </strong>If you are going to run the bot.py file you have to put your twitter [API HASH](https://www.youtube.com/watch?v=Y-1PF_eHXrI&t) where is indicated on the file 
+<strong> WARNING: </strong>If you are going to run the bot.py file you have to put the desired word and your twitter [API HASH](https://www.youtube.com/watch?v=Y-1PF_eHXrI&t) where is indicated on the file 
 
 🡪 You have to ensure that the latest version of Python is installed on your computer: [Python](https://www.python.org/downloads/)
 </p>
