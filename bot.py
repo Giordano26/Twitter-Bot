@@ -22,7 +22,7 @@ while True:
             timer = datetime.datetime.now()
             print("Liked/Retweeted")
             print(timer.hour,":",timer.minute,":",timer.second)
-            time.sleep(60)
+            time.sleep(60) #Timer for the next rt or fav, you may change if the word is very commom
         except tweepy.TweepError as error:
             print(error.reason)
             time.sleep(1)
