@@ -22,7 +22,7 @@ while True:
             timer = datetime.datetime.now()
             print("Liked/Retweeted")
             print(timer.hour,":",timer.minute,":",timer.second)
-            time.sleep(240)
+            time.sleep(60)
         except tweepy.TweepError as error:
             print(error.reason)
             time.sleep(1)
