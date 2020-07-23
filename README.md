@@ -13,7 +13,7 @@
 </p>
 🡪 In order to install tweepy just type "pip install tweepy" on cmd
 </p>
-🡪 After all this, on cmd find where the bot.py file is located and then type "python bot.py
+🡪 After all this, on cmd find where the bot.py file is located and then type "python bot.py"
 
 ## Features
 
