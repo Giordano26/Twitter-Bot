@@ -22,7 +22,7 @@
 🡪 Twitter API
 
 ## Twitter User
-[Profile](https://twitter.com/KpopBot17)
+CURRENTLY INACTIVE
 ## Author
 
 * *Stéfano Giordano* - [Stéfano](https://github.com/Giordano26)
