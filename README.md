@@ -1,5 +1,5 @@
 <h2 align="center">
-    Twitter RT/Fav BOT
+    Twitter RT/Fav BOT (DEPRECATED)
 </h2>
 
 <p align="center">
